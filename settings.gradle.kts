@@ -11,8 +11,11 @@ pluginManagement {
         gradlePluginPortal()
     }
 }
+
 dependencyResolutionManagement {
-    repositoriesMode.set(RepositoriesMode.FAIL_ON_PROJECT_REPOS)
+    // Use the default repositories mode instead of FAIL_ON_PROJECT_REPOS
+    repositoriesMode.set(RepositoriesMode.PREFER_PROJECT) // or RepositoriesMode.FAIL_ON_PROJECT_REPOS if still needed
+
     repositories {
         google()
         mavenCentral()
@@ -21,4 +24,3 @@ dependencyResolutionManagement {
 
 rootProject.name = "Portfolio"
 include(":app")
- 

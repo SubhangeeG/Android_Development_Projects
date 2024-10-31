@@ -12,13 +12,14 @@
         android:id="@+id/textView18"
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
+        tools:ignore="HardcodedText"
         android:text="Projects"
         android:textStyle="bold"
         android:layout_gravity="center"
         android:gravity="center"
         android:layout_margin="20dp"
         android:paddingTop="10dp"
-        android:textSize="30dp"
+        android:textSize="30sp"
         android:paddingBottom="40dp"
         />
 
@@ -26,14 +27,16 @@
         android:id="@+id/textView19"
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
+        tools:ignore="HardcodedText"
         android:text=" Child Healthcare Management App"
         android:layout_gravity="center"
         android:gravity="center"
-        android:textSize="20dp"
+        android:textSize="20sp"
         />
     <TextView
         android:id="@+id/textView20"
         android:layout_width="match_parent"
+        tools:ignore="HardcodedText"
         android:layout_height="wrap_content"
         android:text=" Built a React app with MongoDB for managing child
  healthcare records and vaccination schedules.
@@ -41,7 +44,7 @@
  for efficient healthcare tracking."
         android:layout_gravity="center"
         android:gravity="center"
-        android:textSize="13dp"
+        android:textSize="13sp"
         android:paddingTop="15dp"
         android:paddingBottom="35dp"
         />
@@ -50,21 +53,23 @@
         android:id="@+id/textView21"
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
+        tools:ignore="HardcodedText"
         android:text="Bokeh Effect Generation"
         android:layout_gravity="center"
         android:gravity="center"
-        android:textSize="20dp"
+        android:textSize="20sp"
         />
     <TextView
         android:id="@+id/textView22"
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
+        tools:ignore="HardcodedText"
         android:text="Created a Bokeh effect generation tool using a CNN
  model in Python to enhance image aesthetics with
  realistic background blurring."
         android:layout_gravity="center"
         android:gravity="center"
-        android:textSize="13dp"
+        android:textSize="13sp"
         android:paddingTop="15dp"
         android:paddingBottom="35dp"
         />
@@ -72,22 +77,24 @@
     <TextView
         android:id="@+id/textView23"
         android:layout_width="match_parent"
+        tools:ignore="HardcodedText"
         android:layout_height="wrap_content"
         android:text="Image Captioning"
         android:layout_gravity="center"
         android:gravity="center"
-        android:textSize="20dp"
+        android:textSize="20sp"
         />
     <TextView
         android:id="@+id/textView24"
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
+        tools:ignore="HardcodedText"
         android:text="Created an image captioning system using deep
  learning techniques to automatically generate
  descriptive captions for images."
         android:layout_gravity="center"
         android:gravity="center"
-        android:textSize="13dp"
+        android:textSize="13sp"
         android:paddingTop="15dp"
         android:paddingBottom="35dp"
         />

@@ -14,6 +14,7 @@
         android:layout_height="wrap_content"
         android:layout_gravity="center"
         android:layout_margin="20sp"
+        tools:ignore="HardcodedText,UnusedAttribute"
         android:gravity="center"
         android:outlineAmbientShadowColor="@color/material_on_surface_disabled"
         android:text="Education"
@@ -27,6 +28,7 @@
         android:id="@+id/textView2"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
+        tools:ignore="HardcodedText"
         android:text="2021 - 2025\n
 2021 - 2025
  KLE TECHNOLOGICAL
@@ -43,6 +45,7 @@
         android:id="@+id/textView3"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
+        tools:ignore="HardcodedText"
         android:text="2020\n
  KENDRIYA VIDYALAYA\n
  12th Standard (CBSE) - 88.6%"
@@ -55,6 +58,7 @@
         android:id="@+id/textView4"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
+        tools:ignore="HardcodedText"
         android:text=" 2018\n
  KENDRIYA VIDYALAYA\n
  10th Standard (CBSE) - 87.8%"

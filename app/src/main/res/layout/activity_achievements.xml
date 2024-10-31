@@ -1,0 +1,129 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/main"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".AchievementsActivity"
+    android:orientation="vertical">
+
+
+    <TextView
+        android:id="@+id/textView25"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Achievements"
+        android:textStyle="bold"
+        android:textSize="30dp"
+        android:layout_gravity="center"
+        android:gravity="center"
+        android:layout_margin="15dp"
+        android:paddingTop="10dp"
+        android:paddingBottom="20dp"/>
+
+    <TextView
+        android:id="@+id/linkTextView"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Computer Networks"
+        android:layout_gravity="center"
+        android:gravity="center"
+        android:textSize="20dp"
+        android:paddingBottom="10dp"
+        android:paddingTop="10dp"/>
+    <TextView
+        android:id="@+id/linkTextView41"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="- Cisco"
+        android:layout_gravity="center"
+        android:gravity="center"
+        android:textSize="14dp"
+        android:paddingBottom="10dp"
+        android:paddingTop="6dp"/>
+
+    <TextView
+        android:id="@+id/linkTextView26"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Python"
+        android:layout_gravity="center"
+        android:gravity="center"
+        android:textSize="20dp"
+        android:paddingBottom="10dp"
+        android:paddingTop="10dp"/>
+    <TextView
+        android:id="@+id/linkTextView42"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="- Google"
+        android:layout_gravity="center"
+        android:gravity="center"
+        android:textSize="14dp"
+        android:paddingBottom="10dp"
+        android:paddingTop="6dp"/>
+
+    <TextView
+        android:id="@+id/linkTextView27"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="DevOps"
+        android:layout_gravity="center"
+        android:gravity="center"
+        android:textSize="20dp"
+        android:paddingBottom="10dp"
+        android:paddingTop="10dp"/>
+    <TextView
+        android:id="@+id/linkTextView43"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="- IBM"
+        android:layout_gravity="center"
+        android:gravity="center"
+        android:textSize="14dp"
+        android:paddingBottom="10dp"
+        android:paddingTop="6dp"/>
+
+    <TextView
+        android:id="@+id/linkTextView28"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="HTML, CSS, JS"
+        android:layout_gravity="center"
+        android:gravity="center"
+        android:textSize="20dp"
+        android:paddingBottom="10dp"
+        android:paddingTop="10dp"/>
+    <TextView
+        android:id="@+id/linkTextView44"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="- IBM"
+        android:layout_gravity="center"
+        android:gravity="center"
+        android:textSize="14dp"
+        android:paddingBottom="10dp"
+        android:paddingTop="6dp"/>
+
+    <TextView
+        android:id="@+id/linkTextView29"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Machine Learning"
+        android:layout_gravity="center"
+        android:gravity="center"
+        android:textSize="20dp"
+        android:paddingBottom="10dp"
+        android:paddingTop="10dp"/>
+    <TextView
+        android:id="@+id/linkTextView45"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="- Coursera"
+        android:layout_gravity="center"
+        android:gravity="center"
+        android:textSize="14dp"
+        android:paddingBottom="10dp"
+        android:paddingTop="6dp"/>
+</LinearLayout>

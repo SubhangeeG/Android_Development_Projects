@@ -17,6 +17,8 @@
 - Installation
 - Usage
 - Contact
+
+> Note : Code is in master branch.
 ---
 
 ## About

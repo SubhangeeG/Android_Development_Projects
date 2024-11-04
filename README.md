@@ -63,7 +63,7 @@ This Android portfolio app serves as a digital resume, providing an interactive 
 ## Installation
 1. **Clone the Repository**:
    ```bash
-   git clone https://github.com/your-username/your-repository-name.git
+   git clone https://github.com/SubhangeeG/Portfolio_App
    ```
 2. **Open in Android Studio**:
    - Start Android Studio and select **Open an existing project**.
